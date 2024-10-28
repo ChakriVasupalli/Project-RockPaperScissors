@@ -1,1 +1,1 @@
-# My first project on JavaScript - RockPaperScissors
+# My first project on WebDevelopment - RockPaperScissors
